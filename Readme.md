@@ -18,9 +18,13 @@ The following default properties are used in the application:
 server.port=8282
 ```
 
-![alt text](img/Post.png?raw=true "Post")
-![alt text](img/GetAll.png?raw=true "GetAll")
-![alt text](img/Put.png?raw=true "Put")
-![alt text](img/Get.png?raw=true "Get")
-![alt text](img/Delete.png?raw=true "Delete")
-![alt text](img/GetAll2.png?raw=true "GetAll2")
+## Usage
+
+All available application endpoints are test using postman.
+
+![alt text](img/Post.png)
+![alt text](img/GetAll.png)
+![alt text](img/Put.png)
+![alt text](img/Get.png)
+![alt text](img/Delete.png)
+![alt text](img/GetAll2.png)
