@@ -22,9 +22,9 @@ server.port=8282
 
 All available application endpoints are test using postman.
 
-![alt text](img/Post.png)
-![alt text](img/GetAll.png)
-![alt text](img/Put.png)
-![alt text](img/Get.png)
-![alt text](img/Delete.png)
-![alt text](img/GetAll2.png)
+![alt text](img/Post.jpg)
+![alt text](img/GetAll.jpg)
+![alt text](img/Put.jpg)
+![alt text](img/Get.jpg)
+![alt text](img/Delete.jpg)
+![alt text](img/GetAll2.jpg)
